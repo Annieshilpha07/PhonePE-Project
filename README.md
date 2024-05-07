@@ -41,5 +41,13 @@ The PhonePe Pulse GitHub repository contains a large amount of data related to v
 - Pandas
 - MySQL
 
+## Learning Outcomes
+1. **Data Extraction and Processing:** Learn to extract and preprocess data using Pandas.
+2. **Database Management:** Learn efficient data storage and retrieval using MySQL.
+3. **Visualization and Dashboard Creation:** Master creating interactive dashboards with Streamlit and Plotly.
+4. **Geo Visualization:** Understand how to visualize data on maps using Plotly.
+5. **Dynamic Updating:** Learn to create dashboards that update with new data.
+6. **Project Development and Deployment:** Develop user-friendly solutions, from extraction to deployment, ensuring security and efficiency.
+
 ## Results
 The result of this project will be a live geo visualization dashboard that displays information and insights from the PhonePe Pulse GitHub repository in an interactive and visually appealing manner. Users will be able to access the dashboard from a web browser and easily navigate the different visualizations and facts and figures displayed.
